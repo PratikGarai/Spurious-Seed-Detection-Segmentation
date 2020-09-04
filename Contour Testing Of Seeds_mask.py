@@ -47,7 +47,7 @@ def segment_printer(segments):
         cv.waitKey()
         cv.destroyAllWindows()
 
-img = cv.imread('images/img2.jpg')
+img = cv.imread('images/fenugreek seed.jpeg')
 segments = []     #for testing purpose only     
 
 cv.imshow("Input", img)
