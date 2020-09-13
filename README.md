@@ -5,3 +5,5 @@ An attempt to segment out isolated seeds using contouring from a white backgroun
 <h3>Sample Output</h3>
 <img src="result.png"></img>
 <hr>
+
+A different approcah can be found here : https://github.com/ritikasarkar18/Seed-Image-Segmentation
